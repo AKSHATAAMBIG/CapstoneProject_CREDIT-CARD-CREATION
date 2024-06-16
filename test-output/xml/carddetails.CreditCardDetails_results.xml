@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="creditcard"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="14.853">
+    <properties></properties>
+
+
+
+            <testcase
+                name="validateDatabaseConnection"
+                time="0.498"
+                classname="carddetails.CreditCardDetails">
+            </testcase>
+            <testcase
+                name="GetAllCreditCardDetails"
+                time="14.355"
+                classname="carddetails.CreditCardDetails">
+            </testcase>
+</testsuite>
